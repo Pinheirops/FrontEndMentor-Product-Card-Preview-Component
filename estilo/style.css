@@ -16,7 +16,7 @@ body {
   background-color: hsl(30, 38%, 92%);
 }
 
-.main {
+main {
   background-color: white;
   max-width: 650px;
   align-self: center;
@@ -75,7 +75,6 @@ body {
 
 .preco-original {
   font-family: var(--Monteserrat);
-  text-decoration: line-through;
   color: hsl(228, 12%, 48%);
 }
 
