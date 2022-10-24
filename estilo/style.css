@@ -101,7 +101,7 @@ a:hover {
     grid-template-columns: 1fr;
     grid-template-rows: 250px 1fr;
     max-width: 360px;
-    height: 670px;
+    margin-bottom: 100px;
   }
 
   .foto-grande {
@@ -109,13 +109,16 @@ a:hover {
     border-radius: 15px 15px 0px 0px;
   }
   .textos {
-    padding-left: 25px;
-    grid-row: 2;
+    padding-left: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 15px;
+    border-radius: 0px 0px 15px 15px;
   }
 
   .titulo {
     margin: 20px 0px;
     font-size: 2.3rem;
+    grid-row: 2;
   }
 
   .desc {
