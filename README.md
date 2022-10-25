@@ -1,10 +1,15 @@
 # Product Preview Card Component - FrontendMentor
 
-<p>Solução para o exercicio do FrontendMentor Product Preview Card Component</p>
-____________________________________________________________________________________
-<p>• Html </p>
-<p>• Css </p>
-<p>• Responsividade</p>
-____________________________________________________________________________________
+<h2>Solução para o exercicio do FrontendMentor Product Preview Card Component</h2>
+
+<hr>
+
+<ul>
+<li>Html </li>
+<li>Css </li>
+<li>Responsividade</li>
+</ul>
+
+<hr>
 
 <p><a href="https://pinheirops.github.io/FrontEndMentor-Product-Card-Preview-Component/">Clique aqui para visualizar o exercício</a></p>
