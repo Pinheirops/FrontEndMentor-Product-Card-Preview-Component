@@ -11,5 +11,3 @@
 </ul>
 
 <hr>
-
-<p><a href="https://pinheirops.github.io/FrontEndMentor-Product-Card-Preview-Component/">Clique aqui para visualizar o exercício</a></p>
